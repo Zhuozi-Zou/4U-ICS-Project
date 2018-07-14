@@ -1,0 +1,14 @@
+
+
+4
+
+Speed Test
+
+Description:
+
+  Use Speed Test to monitor your cellular(3G/4G/LTE) and Wifi 
+  connection rate and response for your device.A simple testing
+  app to determine your true mobile speed.
+
+28
+3.9

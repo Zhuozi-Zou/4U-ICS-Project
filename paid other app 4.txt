@@ -1,0 +1,14 @@
+
+
+4
+
+Hourly News
+
+Description:
+
+  Hourly News is a simple app that plays the most recent news
+  updates from multiple sources automatically when opened.
+
+48
+0.2
+3.9

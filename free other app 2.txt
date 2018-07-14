@@ -1,0 +1,13 @@
+
+
+2
+
+Clean Doctor
+
+Description: 
+
+  This is a practical app to help you better manage your phone while
+  saving storage.
+
+6
+2.9

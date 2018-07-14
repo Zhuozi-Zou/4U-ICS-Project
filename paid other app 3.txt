@@ -1,0 +1,15 @@
+
+
+3
+
+Guitar Pro
+
+Description:
+
+  The Guitar Pro application allows all guitarists to enjoy viewing,
+  playing, as well as writing tablature easily, right from their mobile
+  device.
+
+21
+9.0
+4.7

@@ -1,0 +1,14 @@
+
+
+5
+
+Hygro-thermometer Pro - Weather Monitoring
+
+Description:
+
+  Hygro-thermometer are designed for displaying temperature, humidity
+  of current location.
+
+11
+1.2
+2.1
